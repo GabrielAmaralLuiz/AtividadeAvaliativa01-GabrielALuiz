@@ -1,0 +1,5 @@
+body .dark-mode {
+    /* Estilos para o modo escuro */
+    background-color: #000000;
+    color: #ffffff;
+}
